@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "204730786539",
+    "firebase_url": "https://maven-mentors-64774.firebaseio.com",
+    "project_id": "maven-mentors-64774",
+    "storage_bucket": "maven-mentors-64774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204730786539:android:3e61cd21e0a047581394ae",
+        "android_client_info": {
+          "package_name": "com.mavenmentors.mavenmentors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204730786539-krks3e1a3cqpencju3hmu6330f5n7g7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFfhsWPGmZ8CtXhetqnp8pi3CMZQOOPiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204730786539-krks3e1a3cqpencju3hmu6330f5n7g7j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "204730786539-om2ithg5tl01fotv3b78pdduklgb358c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mavenmentors.mavenmentors"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
